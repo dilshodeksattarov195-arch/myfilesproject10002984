@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervave",
+        "uuid": 10864744,
+        "checksum": "g6zxt6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
